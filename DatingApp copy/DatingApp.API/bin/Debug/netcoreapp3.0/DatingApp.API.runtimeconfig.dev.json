@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/lily-macbook_pro/.dotnet/store/|arch|/|tfm|",
+      "/Users/lily-macbook_pro/.nuget/packages"
+    ]
+  }
+}
