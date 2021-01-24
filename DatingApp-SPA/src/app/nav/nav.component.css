@@ -1,0 +1,6 @@
+.capitalize {
+    text-transform: capitalize;
+ }
+.dropdown-item, .dropdown-toggle {
+     cursor: pointer;
+ } 
